@@ -45,7 +45,7 @@ function Productsall(){
                         
                         <div className="card-body">
                         <h5>Chinchin</h5>
-                            <p>A meat pie is a baked pastry filled with a savory mixture of meat, vegetables, and seasonings.</p>
+                            <p> fried dough snack that’s crunchy and slightly sweet. Made from a dough mixture of flour, sugar, and more.</p>
                             <Link className="btn btn-dark" to="/order">Order now</Link>
 
                         </div>
@@ -73,7 +73,7 @@ function Productsall(){
                         
                         <div className="card-body">
                         <h5>Samosa</h5>
-                            <p>A samosa is a deep-fried or baked pastry filled with a savory mixture of ingredients.</p>
+                            <p>samosa is a deep-fried or baked pastry filled with a savory mixture of ingredients.</p>
                             <Link className="btn btn-dark" to="/order">Order now</Link>
 
                         </div>
@@ -115,7 +115,7 @@ function Productsall(){
                         
                         <div className="card-body">
                         <h5>fries</h5>
-                            <p>Puff puff is a type of fried dough ball that’s soft and fluffy on the inside with a golden-brown exterior.</p>
+                            <p>They're made by cutting potatoes into sticks or wedges, then deep-frying them until crispy and golden brown. </p>
                             <Link className="btn btn-dark" to="/order">Order now</Link>
 
                         </div>

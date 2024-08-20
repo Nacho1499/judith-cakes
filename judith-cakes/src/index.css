@@ -2,7 +2,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
 }
+
 .hero{
   background-image: linear-gradient(rgba(0,0,0,0.75),rgba(231, 94, 94, 0.75)),url(assets/contact-image.jpg);
   background-position: center;
@@ -13,6 +16,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.herostyle{
+  font-family: "Lobster", sans-serif;
 }
 .logo{
   width: 70px;
