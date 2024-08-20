@@ -32,7 +32,7 @@ function Products(){
                         
                         <div className="card-body">
                         <h5>Meatpie</h5>
-                            <p>A meat pie is a baked pastry filled with a savory mixture of meat, vegetables, and seasonings.</p>
+                            <p>meat pie is a baked pastry filled with a savory mixture of meat, vegetables, and seasonings.</p>
                             <Link className="btn btn-dark" to="/order">Order now</Link>
 
                         </div>
@@ -60,7 +60,7 @@ function Products(){
                         
                         <div className="card-body">
                         <h5>Samosa</h5>
-                            <p>A samosa is a deep-fried or baked pastry filled with a savory mixture of ingredients.</p>
+                            <p>samosa is a deep-fried or baked pastry filled with a savory mixture of ingredients.</p>
                             <Link className="btn btn-dark" to="/order">Order now</Link>
 
                         </div>
