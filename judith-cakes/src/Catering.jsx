@@ -18,7 +18,7 @@ function Catering(){
 
             </div>
             <div className="col-12 col-lg-6 mb-4">
-                <img className="catering-image img-fluid" src={catering} alt="catering-image" />
+                <img className="catering-image img-fluid rounded" src={catering} alt="catering-image" />
             </div>
 
            </div>

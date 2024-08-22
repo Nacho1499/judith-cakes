@@ -20,10 +20,16 @@ function Navbar(){
           <Link className="nav-link text-light" to="/about">About</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light" to="/gallery" >Gallery</Link>
+          <Link className="nav-link text-light" to="/contact" >Contact</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-light"to="" ></Link>
+          <Link className="nav-link text-light"to="/gallery" >Gallery</Link>
+        </li>
+        <li className="nav-item">
+          <Link className="nav-link text-light" to="/products" >Shop</Link>
+        </li>
+        <li className="nav-item">
+          <Link className="nav-link text-light" to="/event" >Events</Link>
         </li>
         
       </ul>

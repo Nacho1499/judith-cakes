@@ -11,17 +11,17 @@ function Menu(){
             <div className="row g-4 mt-4 mb-5 text-center">
                 <div className="col-12 col-lg-4">
                     
-                        <img className="menu img-fluid" src={cakes} alt="chinchin" /> 
+                        <img className="menu img-fluid rounded" src={cakes} alt="chinchin" /> 
               </div>
 
                 
                 
                 <div className="col-12 col-lg-4">
-                        <img className="menu img-fluid" src={chiken} alt="chinchin" />
+                        <img className="menu img-fluid rounded" src={chiken} alt="chinchin" />
 
                 </div>
                 <div className="col-12 col-lg-4">
-                        <img className="menu img-fluid" src={fries} alt="chinchin" />
+                        <img className="menu img-fluid rounded" src={fries} alt="chinchin" />
                 </div>
                  
                 

@@ -4,13 +4,17 @@ import both2 from  "./assets/both2.jpg";
 import paypal from "./assets/paypal.jpg";
 
 function Footer(){
+    const date= new Date();
+    const year= date.getFullYear();
     return(
-        <div className="container-fluid bg-dark d-flex justify-content-center p-4 ">
+        
+        <div className="container-fluid bg-dark">
+        <div className=" d-flex justify-content-center p-4 ">
             <div className=" row mt-5 ">
             <div className=" col-sm-6 col-lg-3 mx-auto  mb-3">
                 <img className="logo mb-3" src={logo}  alt="site-logo" />
                 <p className=" text-light ">Welcome to judith cake diaries and treats, where we create unforgettable cakes and treats for
-                every occassion. taste the tradition,love and passion in every tastes.  </p>
+                every occassion. taste the tradition,love and passion in every unique taste.  </p>
                 <div className="text-light">
                 <i class="fa-solid fa-location-dot"></i>
                 <h6 className="text-light">
@@ -58,10 +62,22 @@ function Footer(){
             <img className="pay" src={both2} alt=" master and visa cards" />
             </div>
             </div>
+            <p className="text-light text-center">© {year} Judith-Cake Dairies And Treats.  Created by NACHO CODES.</p>
             
             </div>
+            
 
         </div>
+    
+            
+
+        
+        </div>
+
+        
+
+    
+
 
     )
 

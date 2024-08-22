@@ -9,6 +9,7 @@ import Gallery from './Gallery.jsx';
 import Order from './Order.jsx';
 import About from './About.jsx';
 import Productsall from './Productsall.jsx';
+import Event from './Event.jsx';
 
 
 const router= createBrowserRouter([
@@ -17,7 +18,8 @@ const router= createBrowserRouter([
   {path:"/gallery", element:<Gallery/>},
   {path:"/order", element:<Order/>},
   {path:"/about", element:<About/>},
-  {path:"/products",element:<Productsall/>}
+  {path:"/products",element:<Productsall/>},
+  {path:"/event",element:<Event/>},
   
 ])
 

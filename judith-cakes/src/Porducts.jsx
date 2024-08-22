@@ -14,7 +14,7 @@ function Products(){
             <div className="row g-3 mt-4">
                 
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={donut} alt="" />
                         
                         <div className="card-body">
@@ -27,7 +27,7 @@ function Products(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={pie} alt="" />
                         
                         <div className="card-body">
@@ -41,7 +41,7 @@ function Products(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={choco} alt="" />
                         
                         <div className="card-body">
@@ -55,7 +55,7 @@ function Products(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={samusa3} alt="" />
                         
                         <div className="card-body">
@@ -69,7 +69,7 @@ function Products(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={puff} alt="" />
                         
                         <div className="card-body">
@@ -83,7 +83,7 @@ function Products(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={pinut8} alt="" />
                         
                         <div className="card-body">

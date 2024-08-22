@@ -10,7 +10,7 @@ function Order(){
 
         <div className="message container-fluid mt-5 p-5">
             <fieldset className="rounded shadow">
-                <form className="p-5" action="" method="">
+                <form className="p-5" action="https://formspree.io/f/xgvwpwwa" method="POST">
                     <input className=" form-control mb-2" type="text" name="item" placeholder="item name"/>
                     <input className="form-control mb-2" type="email" name="quantity" placeholder="Quantity"/>
                     <input type="text" className="form-control mb-2" name="address" placeholder="address"/>

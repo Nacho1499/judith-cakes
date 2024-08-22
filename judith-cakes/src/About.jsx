@@ -12,7 +12,7 @@ function About(){
 
         </div>
         <div className="container mt-5 mb-3 text-center">
-            <img className="about-logo img-fluid" src={logo} alt="logo" />
+            <img className="about-logo img-fluid shadow rounded" src={logo} alt="logo" />
         </div>
         <br />
 

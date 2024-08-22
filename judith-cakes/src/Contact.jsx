@@ -15,7 +15,7 @@ function Contact(){
         </div>
         <div className="message container-fluid mt-5 p-5">
             <fieldset className="rounded shadow">
-                <form className="p-5" action="" method="">
+                <form className="p-5" action="https://formspree.io/f/xgvwpwwa" method="POST">
                     <input className=" form-control mb-2" type="text" name="fullName" placeholder="Enter FullName"/>
                     <input className="form-control mb-2" type="email" name="email" placeholder="Enter Email"/>
                     <input className="form-control mb-2" type="tel" name="phone Number" placeholder="Enter phone Number"/>

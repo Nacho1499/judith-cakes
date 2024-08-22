@@ -27,7 +27,7 @@ function Productsall(){
             <div className="row g-3 mt-4">
                 
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={pancake} alt="pancake" />
                         
                         <div className="card-body">
@@ -40,7 +40,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={chinchin} alt="chinchin" />
                         
                         <div className="card-body">
@@ -54,7 +54,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={choco} alt="choco" />
                         
                         <div className="card-body">
@@ -68,7 +68,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={samusa3} alt="samosa" />
                         
                         <div className="card-body">
@@ -82,7 +82,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={puff} alt="puff puff" />
                         
                         <div className="card-body">
@@ -96,7 +96,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={pinut8} alt="peanuts" />
                         
                         <div className="card-body">
@@ -110,7 +110,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={fries} alt="" />
                         
                         <div className="card-body">
@@ -124,7 +124,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={donut} alt="Doughnut" />
                         
                         <div className="card-body">
@@ -138,7 +138,7 @@ function Productsall(){
 
                 </div>
                 <div className="col-12 col-lg-4">
-                    <div className="card mx-auto">
+                    <div className="card mx-auto shadow">
                         <img className="product-image" src={pie} alt="Meatpie" />
                         
                         <div className="card-body">
